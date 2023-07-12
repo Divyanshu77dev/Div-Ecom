@@ -13,6 +13,8 @@ simple shopping experience that puts the focus on the products.</p>
 » Vanila CSS <br>
 » React JS
 
+jaka
+
 
 
 
